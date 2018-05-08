@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "workshop-ws-5-8-aws-imanol-avendano-executor",
+    "name": "workshop-ws-5-8-aws-imanol-avendano",
+    "region": "us-east-2"
+  }
+}
